@@ -4,6 +4,8 @@ import Home from "./routes/Home";
 import About from "./routes/About";
 import Project from "./routes/Project";
 import Contact from "./routes/Contact";
+import Lottie from "lottie-react";
+import animationData from './assets/85403-modern.json';
 
 import { Route, Routes } from "react-router-dom";
 
