@@ -5,6 +5,8 @@ import HeroImg2 from '../components/HeroImg2';
 import Form from '../components/Form';
 
 const Contact = () => {
+  window.scrollTo(0, 0);
+  
   return (
     <div>
       <Navbar/>

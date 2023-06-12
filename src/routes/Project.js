@@ -7,6 +7,8 @@ import Work from '../components/Work';
 /*<PricingCard/>*/
 
 const Project = () => {
+  window.scrollTo(0, 0);
+  
   return (
     <div>
       <Navbar/>

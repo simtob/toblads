@@ -5,6 +5,8 @@ import HeroImg2 from '../components/HeroImg2';
 import AboutContent from '../components/AboutContent';
 
 const About = () => {
+  window.scrollTo(0, 0);
+  
   return (
     <div>
       <Navbar/>
