@@ -17,6 +17,7 @@
     "react-icons": "^4.9.0",
     "react-router-dom": "^6.12.1",
     "react-scripts": "5.0.1",
+    "react-social-media-embed": "^2.3.5",
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.19"
   },

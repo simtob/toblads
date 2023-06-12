@@ -1,8 +1,7 @@
 import "./FooterStyles.css";
-
-import React from 'react'
+import React from 'react';
 import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
-import { Link } from "react-router-dom";
+
 
 const Footer = () => {
   return (
@@ -44,13 +43,18 @@ const Footer = () => {
                     meeting new people, discovering new foods and new cultures. 
                 </p>
                 <div className="social">
-                    <FaFacebook size={30} style={
-                        {color:"#fff", marginRight: "1rem" }}> 
-                    </FaFacebook>
+                    <a href="https://www.facebook.com/profile.php?id=100010104794389">
+                        <FaFacebook size={30} style={
+                            {color:"#fff", marginRight: "1rem" }}/> 
+                    </a>
+                    <a href="https://www.instagram.com/simontoblad/">
                     <FaInstagram size={30} style={
                         {color:"#fff", marginRight: "1rem" }}/>
+                    </a>
+                    <a href="https://www.linkedin.com/in/simon-toblad-99374b164/">
                     <FaLinkedin size={30} style={
                         {color:"#fff", marginRight: "1rem" }}/>
+                    </a>
                 </div>
             </div>
         </div>
