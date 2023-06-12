@@ -2,6 +2,7 @@ import "./FooterStyles.css";
 
 import React from 'react'
 import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -44,7 +45,8 @@ const Footer = () => {
                 </p>
                 <div className="social">
                     <FaFacebook size={30} style={
-                        {color:"#fff", marginRight: "1rem" }}/>
+                        {color:"#fff", marginRight: "1rem" }}> 
+                    </FaFacebook>
                     <FaInstagram size={30} style={
                         {color:"#fff", marginRight: "1rem" }}/>
                     <FaLinkedin size={30} style={
