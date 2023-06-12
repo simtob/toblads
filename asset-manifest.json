@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/toblads/static/css/main.073c9b0a.css",
-    "main.js": "/toblads/static/js/main.a559181c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/toblads/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/toblads/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/toblads/static/css/main.9ebc2423.css",
+    "main.js": "/toblads/static/js/main.20e92fbd.js",
+    "static/media/Graduationflowers.JPG": "/toblads/static/media/Graduationflowers.3e68b7deb56d75b7d442.JPG",
+    "static/media/Human-perception-Poster.jpg": "/toblads/static/media/Human-perception-Poster.28a25d4c0aec54b5df2e.jpg",
+    "static/media/arsenal1.JPG": "/toblads/static/media/arsenal1.5a71309a4fae4ae3c71e.JPG",
+    "static/media/Interaction_design_report.jpg": "/toblads/static/media/Interaction_design_report.ce932de20d0932b28e15.jpg",
+    "static/media/Research_methodologt-Final_Report_SimonToblad_EdrisHakimzada_00001.jpg": "/toblads/static/media/Research_methodologt-Final_Report_SimonToblad_EdrisHakimzada_00001.295e23c65b1f7f626060.jpg",
     "index.html": "/toblads/index.html",
-    "main.073c9b0a.css.map": "/toblads/static/css/main.073c9b0a.css.map",
-    "main.a559181c.js.map": "/toblads/static/js/main.a559181c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/toblads/static/js/787.28cb0dcd.chunk.js.map"
+    "main.9ebc2423.css.map": "/toblads/static/css/main.9ebc2423.css.map",
+    "main.20e92fbd.js.map": "/toblads/static/js/main.20e92fbd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a559181c.js"
+    "static/css/main.9ebc2423.css",
+    "static/js/main.20e92fbd.js"
   ]
 }
