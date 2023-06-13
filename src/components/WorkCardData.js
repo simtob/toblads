@@ -17,7 +17,7 @@ const ProjectCardData = [
         imgsrc: zoopark,
         title: "Zoopark in Python",
         text: "Animal park with different functionalities for the user, with error handling (Python)",
-        view: "https://moviemap-vis.web.app/",
+        view: "https://github.com/simtob/djurparken",
         source: "https://github.com/simtob/djurparken/blob/main/Djurparken.py",
     },
     {   
