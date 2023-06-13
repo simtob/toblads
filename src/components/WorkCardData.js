@@ -9,7 +9,7 @@ const ProjectCardData = [
     {   
         imgsrc: oldweb,
         title: "My Old WordPress Website",
-        text: "My first website that I made multiple years ago for fun with WordPress (Elementor, HMTL)",
+        text: "My first website www.toblad.se that I made multiple years ago for fun with WordPress (Elementor, HMTL)",
         view: "toblad.se",
         source: "toblad.se",
     },
