@@ -24,15 +24,15 @@ const ProjectCardData = [
         imgsrc: oldweb,
         title: "My Old WordPress Website",
         text: "My first website www.toblad.se that I made multiple years ago for fun with WordPress (Elementor, HMTL)",
-        view: "toblad.se",
+        view: "www.toblad.se",
         source: "www.toblad.se",
     },
     {
         imgsrc: HCI_report,
         title: "Spotify Podcast Redesign Prototype (Mobile)",
         text: "HCI Project in Figma, where we sought out to redesign the Spotify Podcast section to improve functionality and UX based on user testing and interviews.",
-        view: "https://drive.google.com/file/d/1NURWbsyGV_jCBKSxCGKqYoyt2BJqeNPf/view?usp=sharing",
-        source: "https://www.figma.com/proto/bF9YU0kdUkK8znYEGrnHHf/spotify-remake-prototype?page-id=0%3A1&node-id=2-158&viewport=241%2C48%2C0.21&scaling=min-zoom&starting-point-node-id=1%3A288",
+        view: "https://www.figma.com/proto/bF9YU0kdUkK8znYEGrnHHf/spotify-remake-prototype?page-id=0%3A1&node-id=2-158&viewport=241%2C48%2C0.21&scaling=min-zoom&starting-point-node-id=1%3A288",
+        source: "https://drive.google.com/file/d/1NURWbsyGV_jCBKSxCGKqYoyt2BJqeNPf/view?usp=sharing",
     },
     {
         imgsrc: HumanPerception_poster,
