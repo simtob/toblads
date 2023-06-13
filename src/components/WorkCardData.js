@@ -7,13 +7,6 @@ import oldweb from "../assets/oldweb.png"
 
 const ProjectCardData = [
     {   
-        imgsrc: oldweb,
-        title: "My Old WordPress Website",
-        text: "My first website www.toblad.se that I made multiple years ago for fun with WordPress (Elementor, HMTL)",
-        view: "toblad.se",
-        source: "toblad.se",
-    },
-    {   
         imgsrc: moviemap,
         title: "MovieMap",
         text: "An interactive visualization website for any one interested in the financial aspects of movies and movie making i.e. directors or producers, looking to see how much a particular movie or genre of movies cost to make, ROI of the movie, etc. (JS React, CSS, HTML)",
@@ -26,6 +19,13 @@ const ProjectCardData = [
         text: "Animal park with different functionalities for the user, with error handling (Python)",
         view: "https://moviemap-vis.web.app/",
         source: "https://github.com/simtob/djurparken/blob/main/Djurparken.py",
+    },
+    {   
+        imgsrc: oldweb,
+        title: "My Old WordPress Website",
+        text: "My first website www.toblad.se that I made multiple years ago for fun with WordPress (Elementor, HMTL)",
+        view: "toblad.se",
+        source: "www.toblad.se",
     },
     {
         imgsrc: HCI_report,
